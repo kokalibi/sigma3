@@ -248,6 +248,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="hash.cs" />
     <Compile Include="Regisztracio.xaml.cs">
       <DependentUpon>Regisztracio.xaml</DependentUpon>
     </Compile>
